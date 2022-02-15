@@ -1,5 +1,8 @@
 # malaria_model
-Contains all source code for malaria research.
+Contains all source code for malaria research. Initially ran with jupyter notebook.
+
+
+
 
 Machine learning for the diagnosis of malaria: a pilot study of transfer learning techniques
 
